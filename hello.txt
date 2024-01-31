@@ -3,6 +3,6 @@ ABC
 Q. What plugins would be used for these stages ?
 1. compile block
 2. Code review
-3. Test
+3. Unit Testing
 4. Package
 5. Deploy
